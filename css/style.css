@@ -1086,6 +1086,9 @@ body {
   color: black;
   margin-top: 30px;
   display: inline-block;
+   z-index: 3;
+  position: relative;
+}
 }
 /* Hover Effects */
 .news-item:hover .news-info-title {
